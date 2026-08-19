@@ -1,0 +1,114 @@
+Tier 1 (Must Do – Highest Priority)
+
+->Number Problems
+Prime Number
+Armstrong Number
+Palindrome Number
+Automorphic Number
+Perfect Number
+Strong Number
+Factorial
+Fibonacci Series
+GCD & LCM
+Sum of Digits
+
+->String Problems
+Reverse String
+Palindrome String
+Anagram Check
+Count Vowels
+Remove Spaces
+Character Frequency
+First Non-Repeated Character
+Remove Duplicates
+String Compression
+Longest Word in Sentence
+
+->Array Problems
+Largest Element
+Second Largest Element
+Smallest Element
+Remove Duplicates
+Reverse Array
+Rotate Array
+Find Missing Number
+Find Duplicate Number
+Frequency of Elements
+Move Zeros to End
+
+Tier 2 (Frequently Asked)
+
+->Sorting
+Bubble Sort  
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+
+->Searching
+Linear Search
+Binary Search
+Search in Rotated Array
+
+->Matrix Problems
+Matrix Addition
+Matrix Multiplication
+Transpose Matrix
+Diagonal Sum
+Spiral Traversal
+    
+
+->Pattern Problems
+Star Pyramid
+Inverted Pyramid
+Number Pyramid
+Floyd Triangle
+Pascal Triangle
+
+
+Tier 3 (Advanced TCS Digital / Prime)
+
+->HashMap
+Two Sum
+Majority Element
+Count Pairs
+
+->Sliding Window
+Longest Substring Without Repeating Characters
+Maximum Sum Subarray
+
+->Recursion
+Tower of Hanoi
+Recursive Factorial
+Recursive Fibonacci
+
+->Stack
+Valid Parentheses
+Balanced Brackets
+
+->Queue
+Circular Queue
+Queue using Stack
+
+
+
+
+Most Repeated TCS Questions
+
+These appear again and again:
+
+Prime Number
+Armstrong Number
+Fibonacci
+Palindrome
+Anagram
+Largest/Second Largest
+Missing Number
+Binary Search
+Bubble Sort
+Matrix Addition
+Character Frequency
+Remove Duplicates
+Two Sum
+Valid Parentheses
+Maximum Subarray Sum
